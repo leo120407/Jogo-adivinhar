@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(73, 1, 139);
+    text-align: center;
+}
+section {
+    width: 500px;
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: auto;
+}
+header {
+    font: normal 35pt Arial;
+    color: aliceblue;
+}
+div#in {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div#resp {
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div#cont {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div#opt {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
